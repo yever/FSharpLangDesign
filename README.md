@@ -1,7 +1,7 @@
 F# Language Design RFCs 
 =================
 
-RFCs and docs related to the F# langauge design process.
+RFCs and docs related to the F# language design process.
 
 Open RFCs
 
